@@ -5,8 +5,7 @@ reference : https://youtu.be/K9AnJ9_ZAXE
 │   ├── train
 │   ├── test
 │   └── validation
-├── logs
-│
-│
-└── dockerfile
+├── docker-compose.yaml
+├── dockerfile
+└── requirements.txt
 ```
